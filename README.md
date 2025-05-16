@@ -9,4 +9,4 @@ NB:
 - The .ipbny file was created and run in Google Colab to utilize the T4 GPU hardware acceleration. This was do to speed up the training, validation and testing of the model. 
 ![image](https://github.com/user-attachments/assets/5b0f1406-6450-4423-b100-f10e4cdee416)
 
-
+- The model currently has 62.45% accuracy and the next step is to test it with new images.
